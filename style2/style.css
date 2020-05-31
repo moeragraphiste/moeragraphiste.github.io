@@ -1,0 +1,76 @@
+style.css
+
+/* style de mon contacte */
+
+
+
+#conteneur{
+
+	width: 960px;
+	background-color: black;
+	margin: 20px auto;
+	border: solid white;
+	
+
+}
+div{
+	width: 960px;
+	border: solid white;
+	background-color: black;
+}
+
+#info{
+	width: 150px;
+	background-color:#FFB18B;
+	margin: 20px auto;
+	display : inline;
+	padding-top: 500px;
+}
+
+h3{ font-family: 'Anton', sans-serif;
+	font-family: 'anton';
+	font-size: 1em;
+	text-align : center;
+
+}
+
+h1{
+	font-family: 'Anton', sans-serif;
+	font-family: 'anton';
+	font-size: 5sem;
+	color: black;}
+hr{
+	width: 400px;
+	border: solid;}
+
+	header{
+
+	
+	height: 200px;
+	background: #D15D30;
+	border: solid white; 
+	padding: 20px;
+}
+
+
+
+nav{
+
+	
+	height: 120px;
+	background: #E8666B;
+	border: solid white; 
+	padding: 20px;
+}
+
+
+
+}
+img{
+	display: inline-flex;
+	padding-left: 400px;
+}
+
+p{
+	display: inline-flex;
+}

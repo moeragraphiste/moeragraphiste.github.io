@@ -1,0 +1,167 @@
+body{
+	background:#FFB18B;
+
+}
+
+
+#conteneur{
+
+	width: 960px;
+	background-color:#FFB18B;
+	margin: 20px auto;
+	border: solid white;
+	
+
+}
+
+
+
+#info{
+	width: 150px;
+	background-color:red;
+	margin: 20px auto;
+	display : inline;
+}
+
+#intro{
+	width: 900px;
+	background-color:#FFB18B;
+	margin: 20px auto;
+}
+
+h3{ font-family: 'Anton', sans-serif;
+	font-family: 'anton';
+	font-size: 1em;
+	text-align : center;
+	color: #D15D30;
+
+}
+
+h4{font-family: 'Anton', sans-serif;
+	font-family: 'anton';
+	font-size: 2em;
+	text-align : center;
+
+
+}
+header{
+
+	
+	height: 200px;
+	background: #D15D30;
+	border: solid white; 
+	padding: 20px;
+}
+
+
+
+nav{
+
+	
+	height: 120px;
+	background: #E8666B;
+	border: solid white; 
+	padding: 20px;
+}
+
+section{
+
+	
+	display: flex;	
+
+
+
+}
+
+article{
+
+	width: 300px;
+	height: 300px;
+	
+	
+	padding: 20px;
+}
+
+aside{
+
+	width: 660px;
+	height: 300px;
+	
+	 
+	padding: 20px;
+	
+
+}
+
+footer{
+
+	
+	height: 200px;
+	background: #FABB76;
+	border: 3px  solid width;
+	padding: 20px; 
+
+
+}
+
+
+h2{
+	font-family: 'Anton', sans-serif;
+	font-family: 'anton';
+}
+h1{
+	font-family: 'Anton', sans-serif;
+	font-family: 'anton';
+	font-size: 5em;
+	color: black;
+
+
+}
+
+h1:hover{
+	color: white;
+	
+}
+hr{
+	width: 400px;
+	border: solid;}
+
+
+
+p{
+
+
+    font-family: 'Anton', sans-serif;
+
+    font-family: 'Amatic SC', cursive;
+    font-size: 3em;
+
+
+}
+
+#espoire{
+	width: 1050px;
+		height: 20px;
+	
+	margin: 20px auto;
+	text-align: center;
+	display: inline-block;
+	
+}
+#bobo{
+	text-align: center;
+	height: 20px;
+	color: #FFB18B;
+
+}
+#baba{
+	text-align: center;
+	height: 20px;
+	color: #FFB18B;
+}
+a{
+	
+text-decoration:none;
+
+
+}
